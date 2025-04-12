@@ -40,4 +40,6 @@ dependencies {
 
     implementation("commons-codec:commons-codec:1.16.0")
 
+    implementation("io.ktor:ktor-server-request-validation:2.3.3")
+
 }
